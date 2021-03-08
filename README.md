@@ -2,7 +2,6 @@
 MicroShop is a platform to gauge interest in products. Admins can create, edit, and delete products in the admin dashboard. Users can view all listed products, and "Like" them to show their interest. [Check out the Backend Repo](https://github.com/kdmarble/python-micro)
 
 # Demo
-FYI There's some strange slow-down and color encoding issues with this gif when uploaded to GitHub
 ![MicroShop Demo](React.gif)
 
 # Tech Stack
